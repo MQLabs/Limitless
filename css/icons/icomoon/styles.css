@@ -2,6 +2,7 @@
 	font-family: 'icomoon';
 	src:url('https://mqlab.netlify.com/css/icons/icomoon/fonts/icomoon.eot');
 	src:url('https://mqlab.netlify.com/css/icons/icomoon/fonts/icomoon.eot') format('embedded-opentype'),
+		url('https://mqlab.netlify.com/css/icons/icomoon/fonts/icomoon.woff2') format('woff2'),
 		url('https://mqlab.netlify.com/css/icons/icomoon/fonts/icomoon.woff') format('woff'),
 		url('https://mqlab.netlify.com/css/icons/icomoon/fonts/icomoon.ttf') format('truetype'),
 		url('https://mqlab.netlify.com/css/icons/icomoon/fonts/icomoon.svg') format('svg');
