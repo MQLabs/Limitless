@@ -1,0 +1,26 @@
+{
+    "analysis": {
+		"faq": "Допомога",
+		"blog": "БЛОГ",
+		"messages": "Повідомлення",
+		"social": "Соціальні мережі",
+		"vkontakte": "Вконтакте",
+		"odnoklassniki": "Одноклассники",
+		"twitter": "Twitter",
+		"facebook": "Facebook",
+		"google": "Google+",
+		"youtube": "Youtube",
+		"linkedin": "Linkedin",
+		"weibo": "Weibo",
+		"renren": "Renren",
+		"xing": "Xing",
+		"instagram": "Instagram",
+		
+		"hour": "По Години",
+		"day": "По днях",
+		"week": "За тиждень",
+		"months": "За місяць",
+		"quartol": "По квартоль",
+		"years": "По Років"
+    }
+}
