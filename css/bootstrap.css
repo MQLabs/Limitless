@@ -270,11 +270,11 @@ th {
 @font-face {
   font-family: 'Glyphicons Halflings';
   src: url('https://mqlab.netlify.com/css/icons/glyphicons/glyphicons-halflings-regular.eot');
-  src: url('https://mqlab.netlify.com/css/icons/glyphicons/glyphicons-halflings-regular.eot?#iefix') format('embedded-opentype'),
+  src: url('https://mqlab.netlify.com/css/icons/glyphicons/glyphicons-halflings-regular.eot') format('embedded-opentype'),
 	   url('https://mqlab.netlify.com/css/icons/glyphicons/glyphicons-halflings-regular.woff2') format('woff2'),
 	   url('https://mqlab.netlify.com/css/icons/glyphicons/glyphicons-halflings-regular.woff') format('woff'),
 	   url('https://mqlab.netlify.com/css/icons/glyphicons/glyphicons-halflings-regular.ttf') format('truetype'),
-	   url('https://mqlab.netlify.com/css/icons/glyphicons/glyphicons-halflings-regular.svg#glyphicons_halflingsregular') format('svg');
+	   url('https://mqlab.netlify.com/css/icons/glyphicons/glyphicons-halflings-regular.svg') format('svg');
 }
 .glyphicon {
   position: relative;

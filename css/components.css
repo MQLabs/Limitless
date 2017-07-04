@@ -1115,7 +1115,7 @@ body[class*=navbar-bottom] .content {
 *
 * ---------------------------------------------------------------------------- */
 .layout-boxed {
-  background: url(assets/images/backgrounds/boxed_bg.png) repeat;
+  background: url(https://mqlab.netlify.com/images/backgrounds/boxed_bg.png) repeat;
 }
 .layout-boxed > .navbar {
   margin-left: auto;
@@ -1147,7 +1147,7 @@ body[class*=navbar-bottom] .content {
 }
 @media (-webkit-min-device-pixel-ratio: 2), (min-resolution: 192dpi) {
   .layout-boxed {
-    background: url(assets/images/backgrounds/boxed_bg_retina.png) repeat;
+    background: url(https://mqlab.netlify.com/images/backgrounds/boxed_bg_retina.png) repeat;
   }
 }
 /* ------------------------------------------------------------------------------
@@ -11118,19 +11118,19 @@ body.stop-scrolling {
   float: left;
 }
 .ui-selectmenu-images .demo-img-amazon {
-  background: url('../images/brands/amazon.png') no-repeat;
+  background: url('https://mqlab.netlify.com/images/brands/amazon.png') no-repeat;
 }
 .ui-selectmenu-images .demo-img-youtube {
-  background: url('../images/brands/youtube.png') no-repeat;
+  background: url('https://mqlab.netlify.com/images/brands/youtube.png') no-repeat;
 }
 .ui-selectmenu-images .demo-img-twitter {
-  background: url('../images/brands/twitter.png') no-repeat;
+  background: url('https://mqlab.netlify.com/images/brands/twitter.png') no-repeat;
 }
 .ui-selectmenu-images .demo-img-bing {
-  background: url('../images/brands/bing.png') no-repeat;
+  background: url('https://mqlab.netlify.com/images/brands/bing.png') no-repeat;
 }
 .ui-selectmenu-images .demo-img-spotify {
-  background: url('../images/brands/spotify.png') no-repeat;
+  background: url('https://mqlab.netlify.com/images/brands/spotify.png') no-repeat;
 }
 .ui-slider {
   position: relative;
